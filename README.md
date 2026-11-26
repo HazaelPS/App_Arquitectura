@@ -1,4 +1,4 @@
-# ArquiStudio MX
+# ArquiStudio
 
 Aplicación Android para consultar un **catálogo de diseños arquitectónicos**, **cotizar** su costo aproximado según la región y el nivel de acabados, y **registrar pedidos** en una base de datos local.
 
